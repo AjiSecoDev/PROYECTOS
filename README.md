@@ -1,0 +1,22 @@
+# Proyectos de Juan Pérez
+
+Bienvenidos a mi repositorio de proyectos. Aquí encontrarás ejemplos de mis trabajos en desarrollo web, análisis de datos y scripts en Python.
+
+## Contenido
+
+### 📄 CV
+- [Mi CV](CV/CV_JuanPerez.pdf)
+
+### 🌐 Página Web
+- Link: [Tienda Ecommerce](https://mi-app-flask-8a05.onrender.com/)
+
+### 📊 Dashboard
+- Dashboard sencillo creado con Python y Plotly.
+-  [Dashboard MACRO](https://bcrp100view.onrender.com/)
+
+### 🐍 Scripts en Python
+- Scripts de automatización y análisis de datos.
+- Carpeta: [ScriptsPython](ScriptsPython/README.md)
+
+### 🏆 Otros
+- Certificados y documentos adicionales en [Otros](Otros/README.md)
