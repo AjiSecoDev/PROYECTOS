@@ -1,11 +1,8 @@
-# Proyectos de Juan Pérez
+# Proyectos de César
 
 Bienvenidos a mi repositorio de proyectos. Aquí encontrarás ejemplos de mis trabajos en desarrollo web, análisis de datos y scripts en Python.
 
 ## Contenido
-
-### 📄 CV
-- [Mi CV](CV/CV_JuanPerez.pdf)
 
 ### 🌐 Página Web
 - Link: [Tienda Ecommerce](https://mi-app-flask-8a05.onrender.com/)
