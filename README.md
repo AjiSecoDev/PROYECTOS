@@ -13,7 +13,6 @@ Bienvenidos a mi repositorio de proyectos. Aquí encontrarás ejemplos de mis tr
 
 ### 🐍 Scripts en Python
 - Scripts de automatización y análisis de datos.
-- Carpeta: [ScriptsPython](ScriptsPython/README.md)
 
 ### 🏆 Otros
-- Certificados y documentos adicionales en [Otros](Otros/README.md)
+- Certificados y documentos adicionales
